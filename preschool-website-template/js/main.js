@@ -1,7 +1,7 @@
 (function ($) {
     "use strict";
 
-    // Initiate the wowjs
+    // Initiate the wowjs king
     new WOW().init();
 
 
